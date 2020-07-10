@@ -1,6 +1,15 @@
 # appintro
 
-A new Flutter application.
+<img src="https://github.com/loydkim/sign_up_instagram/blob/master/Promo_signup_instagram.gif" width="300" height="560">
+
+* Develop environment.
+
+- Flutter SDK Version: 1.12.13+hotfix.9
+- Flutter: 45.1.1
+- Dart: 192.7761
+- Xcode Version: 11.4.1
+- Android Studio: 3.6.2
+- OS Version: MacOS Catalina 10.15.4
 
 ## Getting Started
 
