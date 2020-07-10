@@ -1,6 +1,6 @@
 # appintro
 
-<img src="https://github.com/loydkim/sign_up_instagram/blob/master/Promo_signup_instagram.gif" width="300" height="560">
+<img src="https://github.com/loydkim/app_intro_page/blob/master/appintro.gif" width="300" height="560">
 
 * Develop environment.
 
